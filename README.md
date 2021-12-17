@@ -1,10 +1,10 @@
-# JavaScript With Event Sourcing
+# JavaScript com Event Sourcing
 
-> A JavaScript event sourcing example from scratch
+> Um exemplo de JavaScript com Event Sourcing
 
 ## Branches
 
-- `basic`: Basic implementation of a simple event sourced domain model
-- `complex`: A more complex example of a ship manager API using event sourcing and [Tardis](https://github.com/irontitan/tardis)
+- `basic`: Implementação do modelo de forma simples
+- `complex`: Uma implementação mais complexa de um gerenciador de navios usando a biblioteca [Tardis](https://github.com/irontitan/tardis)
 
-Switch to the desired branch and start exploring.
+Me encontre nas minhas [redes sociais](https://lsantos.dev) para tirar quaisquer dúvidas!
